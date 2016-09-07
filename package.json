@@ -1,0 +1,11 @@
+{
+  "name": "ez-date-utils",
+  "version": "1.0.0",
+  "description": "Small library to format date objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Coellar",
+  "license": "ISC"
+}
